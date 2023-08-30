@@ -1,5 +1,14 @@
 /* Reset  css*/
 
+/* to use 1rem = 10px */
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
 
 /* Box sizing rules */
 *,
